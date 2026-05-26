@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LesAvent.0f573547\\x64\\Debug\\Couleurs.obj",
+            "outputs": [
+                "LesAvent.0f573547\\x64\\Debug\\Couleurs.h_BED64360C33D7D75.ifc.dt.module.json",
+                "LesAvent.0f573547\\x64\\Debug\\Couleurs.h_BED64360C33D7D75.ifc.dt.d.json",
+                "LesAvent.0f573547\\x64\\Debug\\Couleurs.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Couleurs.h",
+                    "source-path": "c:\\users\\amaury bardeau\\documents\\github\\lesaventuriersdurailube\\couleurs.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

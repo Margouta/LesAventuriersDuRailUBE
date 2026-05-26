@@ -12,11 +12,10 @@ private:
 public:
 	Route(int t, Couleurs c, bool d, Route* s);
 	Route(int t, Couleurs c, bool d);
-	
+
 	const Joueur* getProprietaire() const;
 	void setproprietaire(Joueur* j);
 
 
 
 };
-

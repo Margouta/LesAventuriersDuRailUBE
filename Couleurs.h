@@ -1,0 +1,10 @@
+enum Couleurs
+{
+	BLANC,
+	BLEU,
+	JAUNE,
+	VERT,
+	ROUGE,
+	VIOLET,
+	MULTICOLORE
+};
