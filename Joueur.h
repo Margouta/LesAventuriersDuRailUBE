@@ -4,6 +4,7 @@
 #include <map>
 #include "Couleurs.h"
 #include "Route.h"
+#include "CarteDestination.h"
 
 class Joueur
 {

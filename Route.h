@@ -16,6 +16,4 @@ public:
 	const Joueur* getProprietaire() const;
 	void setproprietaire(Joueur* j);
 
-
-
 };

@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Joueur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:Joueur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\CarteDestination.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:CarteDestination.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\LesAventuriersDuRailUBE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:LesAventuriersDuRailUBE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\CarteDestination.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:CarteDestination.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarteDestination.cpp",
+              "DocumentMoniker": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\CarteDestination.cpp",
+              "RelativeDocumentMoniker": "CarteDestination.cpp",
+              "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\CarteDestination.cpp",
+              "RelativeToolTip": "CarteDestination.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T15:07:49.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Joueur.cpp",
+              "DocumentMoniker": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Joueur.cpp",
+              "RelativeDocumentMoniker": "Joueur.cpp",
+              "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Joueur.cpp",
+              "RelativeToolTip": "Joueur.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T15:07:48.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LesAventuriersDuRailUBE.cpp",
+              "DocumentMoniker": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\LesAventuriersDuRailUBE.cpp",
+              "RelativeDocumentMoniker": "LesAventuriersDuRailUBE.cpp",
+              "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\LesAventuriersDuRailUBE.cpp",
+              "RelativeToolTip": "LesAventuriersDuRailUBE.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T15:07:46.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarteDestination.h",
+              "DocumentMoniker": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\CarteDestination.h",
+              "RelativeDocumentMoniker": "CarteDestination.h",
+              "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\CarteDestination.h",
+              "RelativeToolTip": "CarteDestination.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T15:07:44.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

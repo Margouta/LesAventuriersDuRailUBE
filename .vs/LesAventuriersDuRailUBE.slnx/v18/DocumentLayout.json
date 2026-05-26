@@ -15,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:LesAventuriersDuRailUBE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Couleurs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:Couleurs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Route.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:Route.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\CarteDestination.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:CarteDestination.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Joueur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F573547-9D35-494D-97BE-5E3B6474C947}|LesAventuriersDuRailUBE.vcxproj|solutionrelative:Joueur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +38,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Route.h",
+              "DocumentMoniker": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Route.h",
+              "RelativeDocumentMoniker": "Route.h",
+              "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Route.h",
+              "RelativeToolTip": "Route.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T15:11:26.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Couleurs.h",
+              "DocumentMoniker": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Couleurs.h",
+              "RelativeDocumentMoniker": "Couleurs.h",
+              "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Couleurs.h",
+              "RelativeToolTip": "Couleurs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T15:11:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Joueur.h",
+              "DocumentMoniker": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Joueur.h",
+              "RelativeDocumentMoniker": "Joueur.h",
+              "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Joueur.h",
+              "RelativeToolTip": "Joueur.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T15:11:05.557Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -49,7 +100,7 @@
               "RelativeDocumentMoniker": "Joueur.cpp",
               "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\Joueur.cpp",
               "RelativeToolTip": "Joueur.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-26T15:07:48.381Z",
               "EditorCaption": ""
@@ -62,14 +113,14 @@
               "RelativeDocumentMoniker": "LesAventuriersDuRailUBE.cpp",
               "ToolTip": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\LesAventuriersDuRailUBE.cpp",
               "RelativeToolTip": "LesAventuriersDuRailUBE.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-26T15:07:46.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CarteDestination.h",
               "DocumentMoniker": "C:\\Users\\Amaury BARDEAU\\Documents\\GitHub\\LesAventuriersDuRailUBE\\CarteDestination.h",
               "RelativeDocumentMoniker": "CarteDestination.h",
